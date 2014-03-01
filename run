@@ -1,4 +1,0 @@
-#!/bin/sh
-
-exec /usr/bin/nginx 2>&1
-
