@@ -1,7 +1,7 @@
 FROM akerl/nginx
 MAINTAINER akerl <me@lesaker.org>
 
-RUN pacman -S --noconfirm --needed ruby
+RUN pacman -S --noconfirm --needed ruby base-devel
 RUN gem install --no-user-install --no-rdoc --no-ri jekyll
 
 RUN git clone git://github.com/akerl/blog.git /opt/blog
