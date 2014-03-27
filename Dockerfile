@@ -1,4 +1,4 @@
-FROM akerl/nginx
+FROM dock0/nginx
 MAINTAINER akerl <me@lesaker.org>
 
 RUN pacman -S --noconfirm --needed ruby base-devel
