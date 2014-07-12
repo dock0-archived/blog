@@ -1,7 +1,7 @@
 dock0/blog
 =======
 
-[![Trusted Build](http://img.shields.io/badge/trusted-build-green.svg)](https://registry.hub.docker.com/u/dock0/blog/)
+[![Automated Build](http://img.shields.io/badge/automated-build-green.svg)](https://registry.hub.docker.com/u/dock0/blog/)
 [![MIT Licensed](http://img.shields.io/badge/license-MIT-green.svg)](https://tldrlegal.com/license/mit-license)
 
 Blog container to run [my blog](https://github.com/akerl/blog). Based on [dock0/nginx](https://github.com/dock0/nginx).
