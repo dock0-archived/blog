@@ -1,3 +1,5 @@
+**Inactive Project:** I've stopped using this project in favor of deploying my blog using S3, CloudFront, and CircleCI (https://github.com/akerl/dns/blob/master/circle.yml)
+
 dock0/blog
 =======
 
