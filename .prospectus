@@ -1,7 +1,7 @@
 Prospectus.extra_dep('file', 'prospectus_circleci')
 Prospectus.extra_dep('file', 'prospectus_dockerhub')
 
-image = File.readlines('README.md').first.strip
+image = File.readlines('README.md').grep(/^\w+\/\w+$/).first.strip
 
 item do
   noop
