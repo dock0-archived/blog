@@ -3,7 +3,7 @@
 dock0/blog
 =======
 
-[![Automated Build](http://img.shields.io/badge/automated-build-green.svg)](https://hub.docker.com/r/dock0/blog/)
+[![Automated Build](https://img.shields.io/docker/build/dock0/blog.svg)](https://hub.docker.com/r/dock0/blog/)
 [![Build Status](https://img.shields.io/circleci/project/dock0/blog/master.svg)](https://circleci.com/gh/dock0/blog)
 [![MIT Licensed](http://img.shields.io/badge/license-MIT-green.svg)](https://tldrlegal.com/license/mit-license)
 
